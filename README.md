@@ -3,10 +3,9 @@
 
 + Undergrad student in IT
 + AZ-900 Cert holder, thanks to [Innovacción Virtual](https://github.com/innovaccion-virtual)
-+ Explorer at [Launch X](https://github.com/LaunchX-InnovaccionVirtual)
-+ Aspiring web developer
++ Explorer (web-dev student) at [Launch X](https://github.com/LaunchX-InnovaccionVirtual)
 + Love to learn. Currently I'm learning about: UI/UX Design, HTML, CSS, Javascript. <br>
-+ My professional goal is to get employed as a web-dev as soon as possible. <br>
++ My professional goal is to get employed as a web developer as soon as possible. <br>
 + Totally open to relocate anywhere for a job (as long as I get remote interviews). <br>
 + Even more open to working remotely.
 
