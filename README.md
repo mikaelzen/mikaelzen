@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi everyone, I'm Mika Rodríguez! </h1>
+<h1 align = "center"> <img width="120%" src="./img/pac_pink.png" /> </h1>
 <h3> About me:</h3>
 
 + Undergrad student in IT
