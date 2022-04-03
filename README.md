@@ -6,8 +6,8 @@
 + ✨ Explorer (web-dev student) at [Innovacción Launch X](https://github.com/LaunchX-InnovaccionVirtual)
 + 💜 Love to learn. Currently I'm learning about: UI/UX Design, HTML, CSS, Javascript <br>
 + 🔥 My professional goal is to get employed as a web developer as soon as possible <br>
-+ 🌎 Totally open to relocate anywhere for a job (as long as I get remote interviews) <br>
-+ 🏠 Also open to working remotely <br><br>
++ 🌎 Open to relocate anywhere for a job (provided that I get remote interviews) <br>
++ 🏠 Also open to remote work <br><br>
 
 
 <h3> Personal about me:</h3>
@@ -15,5 +15,5 @@
 + 🏞️ Other interests: <br>
   + Architecture & design, urban development, sustainability, economy, health sciences, education <br>
 + 🏡 In my free time I like to play videogames, design tiny houses, watch anime, ride a bike or read <br>
-+ ⚧️ &nbsp; I'm trans! (female to non-binary). My prononuns: he/him or they/them <br> <!--My gender expression is masculine, but it may change.-->
++ ⚧️ &nbsp; I am trans! (female to non-binary). My prononuns: he/him or they/them <br> <!--My gender expression is masculine, but it may change.-->
 + 👨‍🏫 Have been through a lot and hope to become an inspiration for young people to overcome adversity <br>
