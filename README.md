@@ -1,4 +1,4 @@
-<h1 align = "center"> <img width="120%" src="./img/pac_trans.png" /> </h1>
+<h1 align = "center"> <img width="120%" src="./img/pac_git.png" /> </h1>
 <h3> About me:</h3>
 
 + 🏫 Undergrad student in IT
