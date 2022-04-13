@@ -5,9 +5,8 @@
 + 📝 AZ-900 cert holder, thanks to [Innovacción Virtual](https://github.com/innovaccion-virtual)
 + ✨ Explorer (web-dev student) at [Innovacción Launch X](https://github.com/LaunchX-InnovaccionVirtual)
 + 💜 Love to learn. Currently I'm learning about: UI/UX Design, HTML, CSS, Javascript <br>
-+ 🔥 My professional goal is to get employed as a web developer as soon as possible <br>
-+ 🌎 Open to relocate anywhere for a job (provided that I get remote interviews) <br>
-+ 🏠 Also open to remote work <br><br>
++ 🔥 My professional goal is to work as a web developer <br>
++ 🌎 Open to relocate for a job (via remote interviews). Also open to remote work <br> <br>
 
 
 <h3> Personal about me:</h3>
