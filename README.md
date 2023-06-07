@@ -2,8 +2,7 @@
 <h3> About me:</h3>
 
 + 🏫 Undergrad student in IT
-+ 📝 AZ-900 cert holder, thanks to [Innovacción Virtual](https://github.com/innovaccion-virtual)
-+ ✨ Explorer (web-dev student) at [Launch X LATAM](https://github.com/Launch-X-Latam)
++ 📝 AZ-900 cert holder, thanks to [Innovacción Virtual](https://github.com/innovaccion-virtual)✨
 + 💜 Love to learn. Currently I'm learning about: UI/UX Design, HTML, CSS, Javascript <br>
 + 🔥 My professional goal is to work as a web developer <br>
 + 🌎 Open to relocate for a job (via remote interviews). Also open to remote work <br> <br>
